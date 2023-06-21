@@ -1,0 +1,4 @@
+data peserta web dev
+nama        :erindra cahya renata
+email       :erindra2901@gmail.com
+akun gitlab :erindracahya
